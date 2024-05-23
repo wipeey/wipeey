@@ -23,7 +23,7 @@ I'd really like to create a blog someday, so consider it to be added to this lan
 
 ---
 
-### 📨 Discord => sctwck
+### 📨 Discord → sctwck
 <!--
 **twck789/twck789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
