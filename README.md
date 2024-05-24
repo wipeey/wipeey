@@ -20,7 +20,7 @@ I'd really like to create a blog someday, so consider it to be added to this lan
 ## 📊 Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wipeey&theme=radical&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wipeey&theme=radical&layout=pie" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wipeey&show_icons=true&theme=radical" />
