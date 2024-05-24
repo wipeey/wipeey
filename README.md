@@ -2,7 +2,7 @@
 
 ---
 
-A cybersecurity enthusiast willing to progress and improve in various domains. Currently practicing on platforms like TryHackMe and RootMe. Trying to avoid tutorial hell. Mr. Robot fan.
+A cybersecurity enthusiast willing to progress and improve in various domains. Currently practicing on platforms like TryHackMe and RootMe. Trying to avoid tutorial hell. Mr. Robot and Terry Davis fan.
 
 IT Student. Learning C++, Java and Python. Still working on some scripts/softwares to be uploaded in order to share my progress to others. Not addicted to coffee yet.
 
