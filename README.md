@@ -20,10 +20,10 @@ I'd really like to create a blog someday, so consider it to be added to this lan
 ## 📊 Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=wipeey&theme=radical&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=wipeey&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api?username=wipeey&show_icons=true&theme=radical)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api?username=wipeey&show_icons=true&theme=radical" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wipeey&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
