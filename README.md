@@ -19,7 +19,7 @@ I'd really like to create a blog someday, so consider it to be added to this lan
 
 ## 📊 Github Stats
 
-[![wipeey's GitHub stats](https://github-readme-stats.vercel.app/api?username=wipeey&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wipeey&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![wipeey's GitHub stats](https://github-readme-stats.vercel.app/api?username=wipeey&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wipeey&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
