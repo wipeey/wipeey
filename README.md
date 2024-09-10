@@ -27,7 +27,9 @@ I'd really like to create a blog someday, so consider it to be added to this lan
 ---
 
 ## Get in touch
+
 Discord → sctwck
+
 X → @levraiwipeey
 
 ---
