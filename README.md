@@ -29,6 +29,7 @@ I'd really like to create a blog someday, so consider it to be added to this lan
 ---
 
 ## 📨 Discord → sctwck
+## X → @levraiwipeey
 
 ---
 <!--
