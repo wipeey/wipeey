@@ -4,7 +4,7 @@ A cybersecurity enthusiast willing to progress and improve in various domains. C
 
 IT Student. Learning C++, Java and Python. Still working on some scripts/softwares to be uploaded in order to share my progress to others. Not addicted to coffee yet.
 
-Checkout [my blog](https://wipeey.github.io/) !
+Check out [my blog](https://wipeey.github.io/) !
 
 ---
 
